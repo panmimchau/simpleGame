@@ -1,4 +1,5 @@
 #! /usr/bin/python3
+#a simple game created using a class object
 
 class Game():
 
